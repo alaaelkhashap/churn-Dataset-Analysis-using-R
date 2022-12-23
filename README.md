@@ -1,6 +1,6 @@
 # churn-Dataset-Analysis-using-R
 
-## Problem Definiation
+## Problem Definition
 
 Customer churn rate is an important performance metric in the Telecoms industry due to the highly competitive 
 markets. The churn rate enables companies to understand why their customers are leaving. You are hereby provided 
